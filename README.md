@@ -9,7 +9,7 @@
   />
   <a href="http://ecstar.js.org/">
     <img
-      src="https://github.com/mouse484/Ecstar/workflows/document/badge.svg"
+      src="https://github.com/mouse484/Ecstar/workflows/document/badge.svg
       alt="document badge"
     />
   </a>
